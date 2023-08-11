@@ -12,7 +12,7 @@ I'm Alex Carter, a developer at **Zipline**, where I bring innovative solutions 
 
 ## 🚀 Projects
 
-- **[Project Name 1](LINK_TO_PROJECT_1)**: Short description of the project.
+- **[P2]([LINK_TO_PROJECT_1](https://www.flyzipline.com/))**: Helping deliever the future!
 - **[Project Name 2](LINK_TO_PROJECT_2)**: Short description of the project.
 
 ## 📚 Continuous Learning
