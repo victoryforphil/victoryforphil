@@ -6,7 +6,7 @@ I'm Alex Carter, a developer at **Zipline**, where I bring innovative solutions 
 
 ## 🛠️ Technologies & Tools
 
-- **Simulation:** [List your favorite simulation tools/techs]
+- **Simulation:** Rust, Julia
 - **Robotics:** [List your favorite robotics tools/techs]
 - **Quadcopters:** [List your favorite quadcopter tools/techs]
 
@@ -17,7 +17,7 @@ I'm Alex Carter, a developer at **Zipline**, where I bring innovative solutions 
 
 ## 📚 Continuous Learning
 
-Currently delving deeper into [Specific topic or technology you're studying, e.g., "Advanced AI algorithms for quadcopters"].
+Currently delving deeper into the world of quadcopter control and software-in-the-loop simulation!
 ## 📖 Reading List
 
 I believe that continuous learning is vital for any developer. Here are some of the books and articles that have influenced my thinking or are currently on my reading list:
