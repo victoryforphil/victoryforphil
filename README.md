@@ -6,14 +6,13 @@ I'm Alex Carter, a developer at **Zipline**, where I bring innovative solutions 
 
 ## 🛠️ Technologies & Tools
 
-- **Simulation:** Rust, Julia
-- **Robotics:** [List your favorite robotics tools/techs]
-- **Quadcopters:** [List your favorite quadcopter tools/techs]
-
+- **Simulation:** Rust, Julia, C++
+- **Robotics:** ROS, C++, 
+- **Full-Stack:** TypeScript, Kubenetes, React
+- **Embedded:** STM32, Embedded-Linux, Zephyr (learning :))
 ## 🚀 Projects
-
-- **[P2]([LINK_TO_PROJECT_1](https://www.flyzipline.com/))**: Helping deliever the future!
-- **[Project Name 2](LINK_TO_PROJECT_2)**: Short description of the project.
+- **[Zipline Platform 2](https://www.flyzipline.com/)**: Helping (simulate) the future of delivery!
+- **[Victory-Archive](https://github.com/victoryforphil/victory-archive)**: Backup and archival software, but in rust :) (For real I need a modular, robust, fast back up software with a random suite of requirements such as cloud backup, auto-run on device connect, diff. checking, etc. So why not try and make one) 
 
 ## 📚 Continuous Learning
 
@@ -21,17 +20,8 @@ Currently delving deeper into the world of quadcopter control and software-in-th
 ## 📖 Reading List
 
 I believe that continuous learning is vital for any developer. Here are some of the books and articles that have influenced my thinking or are currently on my reading list:
-
 ### Books
 - **"Introduction to Autonomous Robots"** by Nikolaus Correll, Bradley Hayes, Bradley Hayes - A comprehensive dive into the basics of robotics.
-  
-- **"Quadcopter and Drone Photography"** by Chase Guttman - While it's about the art of photography using drones, it provides valuable insights into quadcopter capabilities.
-  
-- **"Reinforcement Learning: An Introduction"** by Richard S. Sutton and Andrew G. Barto - Offers a deep dive into RL which is increasingly becoming vital in robotic simulations.
-  
-### Articles
-- **[Title of Article 1](LINK_TO_ARTICLE_1)** - Short description or key takeaway from the article.
-- **[Title of Article 2](LINK_TO_ARTICLE_2)** - Another brief description or key insight.
 
 ---
 
